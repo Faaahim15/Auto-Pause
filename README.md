@@ -22,7 +22,8 @@ Just click the install button from the Chrome Web Store and let Chrome handle th
 2. Find `Auto Pause Video`
 3. Click the **📌 Pin icon** to make it visible in your toolbar.
 
-![Add Screenshot here of pinning the extension]
+<img width="743" alt="image" src="https://github.com/user-attachments/assets/879bc0fe-a03d-4ca1-a7fa-a2403c2f7566" />
+
 
 ### 🔁 3. How It Works
 - When you're watching a video and **switch to another tab or app**, the extension **pauses** it.
@@ -39,7 +40,8 @@ Click the extension icon in your toolbar to toggle the functionality:
 - **Blue ON** = Extension is active
 - **Gray OFF** = Extension is disabled
 
-![Add Screenshot of ON/OFF toggle UI]
+<img width="654" alt="image" src="https://github.com/user-attachments/assets/4c478cd6-8f18-4937-934e-aeb82e6ef962" />
+
 
 ---
 
