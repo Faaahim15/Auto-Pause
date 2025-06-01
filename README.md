@@ -1,7 +1,7 @@
-# 🎥 Auto Pause - Chrome Extension
+# 🎥 Auto Pause Video- Chrome Extension
 
 Automatically pauses a video when you're not on the tab, and plays it again when you come back.  
-Perfect for multitaskers who hate missing even a second. 😭💻
+Perfect for multitaskers who hate missing even a second.💻
 
 ---
 
