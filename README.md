@@ -63,7 +63,7 @@ Click the extension icon in your toolbar to toggle the functionality:
 
 ## 📩 Questions?
 
-DM me on **Instagram** → [@faaahim](https://instagram.com/faaahim) or tag me in a reel 😎  
+DM me on **Instagram** → [@faaahim15](https://instagram.com/faaahim15) or tag me in a reel 😎  
 More cool stuff on my YouTube → [Fahim's Diary](https://youtube.com/@FahimsDiary1)
 
 ---
