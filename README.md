@@ -64,8 +64,8 @@ Click the extension icon in your toolbar to toggle the functionality:
 ## 📩 Questions?
 
 <p>
-  📩 DM me on <a href="https://www.instagram.com/faaahim15" target="_blank" rel="noopener noreferrer">Instagram @faaahim15</a> or tag me in a reel 😎<br>
-  📺 More cool stuff on my <a href="https://www.youtube.com/@Fahim-zk" target="_blank" rel="noopener noreferrer">YouTube → Fahim's Diary</a>
+  📩 DM me on Instagram → <a href="https://www.instagram.com/faaahim15" target="_blank" rel="noopener noreferrer">@faaahim15</a> or tag me in a reel 😎<br>
+  📺 More cool stuff on my YouTube → <a href="https://www.youtube.com/@Fahim-zk" target="_blank" rel="noopener noreferrer">Fahim's Diary</a>
 </p>
 
 ---
