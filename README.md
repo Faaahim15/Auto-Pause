@@ -64,7 +64,7 @@ Click the extension icon in your toolbar to toggle the functionality:
 ## 📩 Questions?
 
 DM me on **Instagram** → [@faaahim15](https://instagram.com/faaahim15) or tag me in a reel 😎  
-More cool stuff on my YouTube → [Fahim's Diary](https://youtube.com/@FahimsDiary1)
+More cool stuff on my YouTube → [Fahim's Diary]([https://youtube.com/@FahimsDiary1](https://www.youtube.com/@Fahim-zk))
 
 ---
 
