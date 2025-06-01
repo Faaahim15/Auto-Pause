@@ -7,8 +7,7 @@ Perfect for multitaskers who hate missing even a second. 😭💻
 
 ## 📦 Install from Chrome Web Store
 
-> 👉 [Click here to Install Auto Pause Video](https://chrome.google.com/webstore/detail/auto-pause-video/your-extension-id-here)  
-> *(Replace with actual URL once published)*
+> 👉 [Click here to Install Auto Pause Video](https://faaahim15.github.io/Auto-Pause/)  
 
 ---
 
