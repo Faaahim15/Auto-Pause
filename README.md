@@ -63,8 +63,8 @@ Click the extension icon in your toolbar to toggle the functionality:
 
 ## 📩 Questions?
 
-📩 DM me on [Instagram @faaahim15](https://www.instagram.com/faaahim15) or tag me in a reel 😎  
-📺 More cool stuff on my [YouTube → Fahim's Diary](https://www.youtube.com/@Fahim-zk)
+📩 DM me on Instagram → [@faaahim15](https://www.instagram.com/faaahim15) or tag me in a reel 😎  
+📺 More cool stuff on my YouTube → [Fahim's Diary](https://www.youtube.com/@Fahim-zk)
 
 ---
 
